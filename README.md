@@ -1,5 +1,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allan-carneiro-97a0131b5/)
-[<img src="https://github.com/login?return_to=%2Fallandxsh" height="22" title="Follow me" />](https://github.com/allandxsh) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:allanhmc9@gmail.com)
 
 Bem vindo, me chamo Allan.
