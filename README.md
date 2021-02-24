@@ -4,6 +4,6 @@
 Bem vindo, me chamo Allan.
 
 - 📖 Estudante de Ciência da Computação pela Universidade Maurício de Nassau - Recife PE
-- 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
+- 🤝 Adoro trabalhar em equipe e contribuir para projetos.
 - ❤️ Tecnologia, programação e desenvolvimento web.
 - 🔎 Procurando oportunidade nas áreas de front-end, desenvolvimento web e mobile.
