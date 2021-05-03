@@ -7,4 +7,4 @@ Bem vindo, me chamo Allan.
 - 🤝 Adoro trabalhar em equipe e contribuir para projetos.
 - ❤️ Tecnologia, programação e desenvolvimento web.
 - 🔎 Procurando oportunidade nas áreas de front-end, desenvolvimento web e mobile.
-- 🌱 Atualmente estudando HTML, CSS, JavaScript, React Native e Next.js
+- 🌱 Atualmente estudando HTML, CSS, Javascript e React.
