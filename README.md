@@ -3,8 +3,7 @@
 
 Bem vindo, me chamo Allan.
 
-- 📖 Estudante de Ciência da Computação pela Universidade Maurício de Nassau - Recife PE
-- 🤝 Adoro trabalhar em equipe e contribuir para projetos.
-- ❤️ Tecnologia, programação e desenvolvimento web.
-- 🔎 Procurando oportunidade na área de front-end, desenvolvimento web.
-- 🌱 Atualmente estudando HTML, CSS, Javascript e React.
+- Analista de testes/QA Engineer at Accenture
+- Adoro trabalhar em equipe e contribuir para projetos.
+- ❤ Tecnologia
+- Atualmente estudando automação de testes.
