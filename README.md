@@ -5,5 +5,4 @@ Bem vindo, me chamo Allan.
 
 - Analista de testes/QA Engineer at Accenture
 - Adoro trabalhar em equipe e contribuir para projetos.
-- ❤ Tecnologia
 - Atualmente estudando automação de testes.
