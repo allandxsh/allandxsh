@@ -3,6 +3,6 @@
 
 Bem vindo, me chamo Allan.
 
-- Analista de testes/QA Engineer at Accenture
+- Analista de testes/QA Engineer at Atomic Solutions
 - Adoro trabalhar em equipe e contribuir para projetos.
 - Atualmente estudando automação de testes.
